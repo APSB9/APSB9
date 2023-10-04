@@ -9,3 +9,5 @@ Note to myself
 > Check the email [Click here](https://mail.proton.me/u/1/inbox).
  
 > Check the damm forms submissions [Click here](https://docs.google.com/spreadsheets/d/1GrTL1KeVdnQw4UQlVgd2E5PpBHPvFRTCLITZRTLE4PA/edit?usp=sharing).
+
+> Implement the uploads property later =), Use "ngrok.exe http --domain=explicitly-helping-malamute.ngrok-free.app 8080"
